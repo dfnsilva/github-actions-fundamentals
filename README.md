@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-New modification!
+New modification! 
 
 Repo for the `GitHub Actions Fundamentals` training.
 
